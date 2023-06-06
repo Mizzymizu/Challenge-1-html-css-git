@@ -15,13 +15,7 @@ N/A
 ## Usage 
 Please view this GitHub Pages URL to view the webpage in its entirety:
 
-<!-- GitHub Pages URL link here -->
-
-## Website 
-
-Here's a picture of the GitHub pages!
-
-<!-- Screenshot here -->
+https://mizzymizu.github.io/Challenge-1-html-css-git/
 
 ## Licence
 
